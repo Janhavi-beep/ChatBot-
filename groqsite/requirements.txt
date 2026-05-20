@@ -1,0 +1,5 @@
+Django>=4.0
+openai==0.28
+python-dotenv
+groq
+openai>=1.0.0
